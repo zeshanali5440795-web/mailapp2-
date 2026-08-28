@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mail</string>
+    <string name="network_error_title">Network Connection Error</string>
+    <string name="network_error_desc">Unable to connect. Please check your internet connection and try again.</string>
+    <string name="network_error_retry">Try Again</string>
+    <string name="file_picker_title">Select Attachment</string>
+    <string name="camera_option">Take Photo</string>
+    <string name="gallery_option">Choose from Gallery / Files</string>
+    <string name="permission_camera">Camera permission is required to take photos</string>
+    <string name="permission_storage">Storage permission is required to select files</string>
+</resources>
